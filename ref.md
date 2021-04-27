@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div dir="rtl" ">
 
 # ref
@@ -33,7 +33,7 @@
 <div dir="ltr" align =left>
 
 ```
->>>>>>> 36299af6b13123ece020b3c48d0985069b00e4d8
+
 using System;
 
 namespace Test
