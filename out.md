@@ -24,13 +24,6 @@ namespace Test
             int c;
             sum(1, 9, out c);
             Console.Write(c);
-
-            int x=5;
-            Console.WriteLine(x);
-            mult(ref x);
-            Console.WriteLine(x);
-            //output: 5
-                    //25
         }
 
         static void sum(int a, int b, out int c)
