@@ -21,9 +21,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            //int c;
-            //sum(1, 9, out c);
-            //Console.Write(c);
+            int c;
+            sum(1, 9, out c);
+            Console.Write(c);
 
             int x=5;
             Console.WriteLine(x);
@@ -33,11 +33,6 @@ namespace Test
                     //25
         }
 
-        static void mult(ref int r)
-        {
-            r = r * r;
-            
-        }
         static void sum(int a, int b, out int c)
         {
             c = a + b;
